@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //static method
-class non_instance{
+class static_method{
     static int square(int x){
         return x*x;
 
