@@ -1,6 +1,6 @@
 import java.util.Random;
 
-class RandomOperation {
+class a {
     // Declare and construct variables
     Random randomnum = new Random();
     int fnum, snum, answer;
